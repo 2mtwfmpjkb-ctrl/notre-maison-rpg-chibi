@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+<defs><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff6bb"/><stop offset=".5" stop-color="#d7a94c"/><stop offset="1" stop-color="#8c4f21"/></linearGradient></defs>
+<rect width="600" height="320" rx="25" fill="#251b41"/>
+<circle cx="300" cy="132" r="120" fill="#6e478f" opacity=".4"/>
+<path d="M112 252L112 84L155 40L197 84L239 38L300 75L361 38L403 84L445 40L488 84L488 252Z" fill="#694578" stroke="url(#gold)" stroke-width="14"/>
+<path d="M164 231L164 105L205 92L244 108L300 84L356 108L395 92L436 105L436 231Z" fill="#412c62" stroke="#d6a85b" stroke-width="6"/>
+<rect x="97" y="205" width="406" height="55" rx="16" fill="url(#gold)" stroke="#fff1a1" stroke-width="6"/>
+<path d="M100 255L125 305H475L500 255Z" fill="#78512f" stroke="#f5d27e" stroke-width="8"/>
+<path d="M270 104L284 72L300 92L316 72L330 104L325 133H275Z" fill="#f6d46b"/>
+<circle cx="300" cy="113" r="11" fill="#b3eaff"/>
+<path d="M225 143L241 116L257 143L241 169Z" fill="#83c6ff"/><path d="M343 143L359 116L375 143L359 169Z" fill="#efb4ff"/>
+<g fill="#fff3c1"><circle cx="66" cy="50" r="5"/><circle cx="534" cy="60" r="6"/><path d="M75 119l6 16 16 6-16 6-6 16-6-16-16-6 16-6Z"/><path d="M525 125l6 16 16 6-16 6-6 16-6-16-16-6 16-6Z"/></g>
+</svg>
