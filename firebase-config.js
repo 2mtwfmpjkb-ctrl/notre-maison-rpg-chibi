@@ -8,5 +8,5 @@ export const firebaseConfig = {
  appId: '1:963057046823:web:9a976e754e34fbf8e0c502'
 };
 export const ROOM_ID = 'notre-maison';
-export const EDDY_UID = '7J6APHKkNqPXq0qjE3gjXIfLtiC';
+export const EDDY_UID = '7J6APHKkNqPXq0qjE3gjXIfLtiC3';
 export const KARINE_UID = '2gWX4NKzvqUa5ZhooK6Q9kTRufW2';
